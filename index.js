@@ -16,7 +16,8 @@ function logWhisper (string) {
 }
 
 function sayHiToGrandma (string) {
-if string = toUpperCase
+if string = toLowerCaseCase
 return (string.toLowerCase "I can\'t hear you!")
 }
-else if 
+else if string = toUpperCase
+return (string.toUpperCase "Yes indeed")
