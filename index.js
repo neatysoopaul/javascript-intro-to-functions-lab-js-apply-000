@@ -19,4 +19,4 @@ function sayHiToGrandma (string) {
 if string = toUpperCase
 return (string.toLowerCase "I can\'t hear you!")
 }
-elseif 
+else if 
