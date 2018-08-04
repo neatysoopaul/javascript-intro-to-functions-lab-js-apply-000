@@ -20,4 +20,6 @@ if string = toLowerCaseCase
 return (string.toLowerCase "I can\'t hear you!")
 }
 else if string = toUpperCase
-return (string.toUpperCase "Yes indeed")
+return (string.toUpperCase "YES INDEED!")
+}
+else if string
