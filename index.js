@@ -23,5 +23,6 @@ else if string = toUpperCase
 return (string.toUpperCase "YES INDEED!")
 }
 else if string = "I love you, Grandma."`'
-return (string.mixedCase "I love you too.")}
+return (string.mixedCase "I love you too.")
+}
 }
