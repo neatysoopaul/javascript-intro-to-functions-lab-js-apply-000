@@ -22,4 +22,5 @@ return (string.toLowerCase "I can\'t hear you!")
 else if string = toUpperCase
 return (string.toUpperCase "YES INDEED!")
 }
-else if string
+else if string = "I love you, Grandma."`'
+return 
